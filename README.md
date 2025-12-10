@@ -36,19 +36,19 @@ The Solution I am building this project to solve my own need for an "accountabil
 
 # Methodology
 
-** Dataset **
+**Dataset**
 
 1. Source: Microsoft COCO (Common Objects in Context) Dataset
 2. Classes: 80 classes (including "Cell Phone")
 3. Size: 330,000 images (Pre-trained by Ultralytics)
 4. Preprocessing: Standard YOLOv8 pre-processing (Auto-scaling, normalization)
 
-** Architecture **
+**Architecture**
 Model: YOLOv8n (Nano)
 Weights: yolov8n.pt
 Inference Size: 640x640 pixels
 
-** Performance (Standard Benchmarks) **
+**Performance (Standard Benchmarks)**
 mAP@50 (Mean Average Precision): 52.5% (approx for Nano model on COCO)
 Speed: ~80 FPS on CPU (Real-time)
 
