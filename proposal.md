@@ -7,12 +7,9 @@ Date: Dec, 11, 2025
 StudyBudyCV
 
 # 2. Problem Statement
-In the modern academic landscape, students face significant challenges in maintaining prolonged focus due to the ubiquity of digital distractions, 
-particularly smartphones, which fragment attention and reduce study efficiency. While traditional productivity tools like Pomodoro timers exist, 
-they lack active monitoring capabilities to enforce discipline and often promote sedentary behavior during breaks. 
-This project addresses these issues by developing an AR-based desktop companion that uses computer vision to actively detect smartphone distractions in real-time while using 
-gesture-based minigames to encourage physical activity during rest periods. By gamifying the accountability process, 
-the system aims to transform the abstract struggle of self-regulation into a tangible, interactive, and rewarding experience for students.
+In the modern academic landscape, students face significant challenges in maintaining prolonged focus due to the ubiquity of digital distractions. While traditional productivity tools like Pomodoro timers are widely available, they suffer from passive interaction—they track time but lack the capability to enforce discipline or provide immediate consequences for distraction. This creates a "feedback void" where students are not held accountable for their actions in real-time.
+
+This project bridges this gap by developing an AR-based desktop companion that actively monitors the workspace using computer vision. By penalizing smartphone usage (active accountability) and rewarding study intervals with gesture-based minigames (dopamine-driven reinforcement), the system transforms the abstract struggle of self-regulation into a tangible, gamified experience.
 
 # 3. Objectives
 
